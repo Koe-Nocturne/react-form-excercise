@@ -1,0 +1,9 @@
+.box {
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.boxContainer {
+    display: flex;
+    justify-content: center;
+}
