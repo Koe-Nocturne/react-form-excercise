@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`boxList renders renders a box correctly 1`] = `ReactWrapper {}`;
+
+exports[`boxList renders renders correctly 1`] = `ShallowWrapper {}`;
+
+exports[`delete box can we delete a box 1`] = `ReactWrapper {}`;
